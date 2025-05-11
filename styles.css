@@ -1,0 +1,32 @@
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    resize: vertical;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #5c3c6d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #f1d1f2;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #d8cfe3;
+}
+.my-photo {
+    width: 300px;        /* ширина изображения */
+    border-radius: 10px; /* скругление углов */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3); /* тень */
+}
